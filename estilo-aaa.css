@@ -1,0 +1,14 @@
+#lista_adicionados {
+    width: 32em;
+    height: 15em;
+}
+#container_idade_novo{
+    width: 15em;
+    height: 15em;
+    display: inline;
+}
+#container_idade_velho{
+    width: 15em;
+    height: 15em;
+    display: inline;
+}
